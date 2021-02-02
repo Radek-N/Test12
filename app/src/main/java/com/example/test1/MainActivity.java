@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button get_button5;
 
+    Button button_Radek;
+
     Button buttonTest3;
 
     @Override
