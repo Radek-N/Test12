@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button button_Radek;
 
-
+// KURWA CHUJ
+    // DRUGI SPAM
     Button buttonTest3;
 
     @Override
