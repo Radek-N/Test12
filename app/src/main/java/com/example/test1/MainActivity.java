@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
 
 // KURWA CHUJ
     // DRUGI SPAM
+    //chujdupa
+
     Button buttonTest3;
 
     @Override
